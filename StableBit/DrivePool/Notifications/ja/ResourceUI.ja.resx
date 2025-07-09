@@ -138,22 +138,22 @@
   <data name="NotifyActivationRequired_BalloonText" xml:space="preserve">
     <value>StableBit DrivePoolのライセンスを確認してください。
 
-これが解決するまでプールに新しいフォルダを作成することはできません。</value>
+ライセンス問題が解決するまで、プールに新しいフォルダを作成することはできません。</value>
   </data>
   <data name="NotifyActivationRequired_BalloonText_TrialRenewal" xml:space="preserve">
-    <value>このベータバージョンからアップグレードして新しいトライアルライセンスを取得する。</value>
+    <value>このベータバージョンからアップグレードして、新しいトライアルライセンスを取得する。</value>
   </data>
   <data name="NotifyMissingDisks_BalloonText" xml:space="preserve">
     <value>1つ以上のディスクがプールから切断されました。</value>
   </data>
   <data name="NotifyUpdate_BalloonText" xml:space="preserve">
-    <value>StableBit DrivePoolのアップデートが見つかりました。</value>
+    <value>StableBit DrivePool のアップデートが見つかりました。</value>
   </data>
   <data name="UpdateDialog_Aborted" xml:space="preserve">
     <value>ダウンロード中断</value>
   </data>
   <data name="UpdateDialog_Aborted_Text" xml:space="preserve">
-    <value>http://stablebit.com/DrivePool から新しいバージョンのDrivePoolをダウンロードすることができます。</value>
+    <value>http://stablebit.com/DrivePool から新しいバージョンの DrivePool をダウンロードすることができます。</value>
   </data>
   <data name="UpdateDialog_Cancel" xml:space="preserve">
     <value>キャンセル(&amp;C)</value>
@@ -162,16 +162,16 @@
     <value>アップデートをダウンロード中...</value>
   </data>
   <data name="UpdateDialog_FooterCheckBoxText" xml:space="preserve">
-    <value>このバージョンについては確認しない</value>
+    <value>このバージョンについて通知しない</value>
   </data>
   <data name="UpdateDialog_InstructionText" xml:space="preserve">
-    <value>StableBit DrivePoolをアップデート</value>
+    <value>StableBit DrivePool をアップデート</value>
   </data>
   <data name="UpdateDialog_ProblemDownloading" xml:space="preserve">
     <value>アップデートのダウンロードに問題があります</value>
   </data>
   <data name="UpdateDialog_ProblemDownloading_Text" xml:space="preserve">
-    <value>アップデートのダウンロード中に問題が発生しました。 http://stablebit.com/DrivePool を訪れて最新バージョンをダウンロードしてください。</value>
+    <value>アップデートのダウンロード中に問題が発生しました。 http://stablebit.com/DrivePool にアクセスして最新バージョンをダウンロードしてください。</value>
   </data>
   <data name="UpdateDialog_RebootRequired" xml:space="preserve">
     <value>アップデートのインストール完了後にコンピュータを再起動する必要があります</value>
